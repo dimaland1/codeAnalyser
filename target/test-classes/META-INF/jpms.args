@@ -1,0 +1,4 @@
+--patch-module
+com.CodeAnalyzer=_
+--add-reads
+com.CodeAnalyzer=ALL-UNNAMED
