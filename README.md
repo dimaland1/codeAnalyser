@@ -67,7 +67,3 @@ Cet outil permet d'effectuer une analyse statique de projets Java, fournissant d
 - Si vous rencontrez des problèmes avec JavaFX, assurez-vous qu'il est correctement installé et configuré dans votre PATH.
 - Pour les erreurs liées à Maven, vérifiez que toutes les dépendances sont correctement téléchargées.
 - Si l'analyse des classes avec beaucoup de méthodes ne fonctionne pas, vérifiez que vous avez entré un nombre valide dans le champ correspondant.
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
